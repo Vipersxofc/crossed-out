@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-28,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "S-Right instance"
+		},
+		{
+			"offsets": [
+				1,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Donwfs instance"
+		},
+		{
+			"offsets": [
+				-10,
+				25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Upo instance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sans FNF instance "
+		},
+		{
+			"offsets": [
+				40,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sleep1",
+			"indices": [],
+			"name": "01 instance "
+		},
+		{
+			"offsets": [
+				42,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sleep2",
+			"indices": [],
+			"name": "03 instance "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				10
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "04 instance ",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-169
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "02 instance ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				53,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Lefft instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sans_Snow",
+	"position": [
+		-40,
+		180
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		140,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
