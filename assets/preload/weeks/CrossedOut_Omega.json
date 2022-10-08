@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "Omega, Omegaspace",
+	"hideFreeplay": true,
+	"weekBackground": "CrossedOut_Easy_Bg",
+	"weekBefore": "CrossedOut_tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Crossed Out Omega",
+			"final",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Menu_vignette",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Crossed Out Omgea Chart - Unbk"
+}
